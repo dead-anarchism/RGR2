@@ -1,0 +1,12 @@
+.add_task__btn{
+    display: flex;
+    background: green;
+    width: 125px;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    margin-right: 20px;
+    margin-bottom: 25px;
+    border-radius: 20px;
+    height: 45px;
+}
